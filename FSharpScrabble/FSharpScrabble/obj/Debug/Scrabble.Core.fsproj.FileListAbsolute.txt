@@ -1,0 +1,6 @@
+c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\FSharpScrabble\obj\Debug\ResolveAssemblyReference.cache
+c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\FSharpScrabble\bin\Debug\FSharpScrabble.XML
+c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\FSharpScrabble\bin\Debug\Scrabble.Core.dll
+c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\FSharpScrabble\bin\Debug\Scrabble.Core.pdb
+c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\FSharpScrabble\obj\Debug\Scrabble.Core.dll
+c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\FSharpScrabble\obj\Debug\Scrabble.Core.pdb
