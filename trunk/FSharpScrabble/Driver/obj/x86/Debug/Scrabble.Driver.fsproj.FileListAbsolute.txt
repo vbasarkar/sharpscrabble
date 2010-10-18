@@ -1,8 +1,0 @@
-c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\Driver\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\Driver\bin\Debug\Driver.XML
-c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\Driver\bin\Debug\Scrabble.Driver.exe
-c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\Driver\bin\Debug\Scrabble.Driver.pdb
-c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\Driver\bin\Debug\Scrabble.Core.dll
-c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\Driver\bin\Debug\Scrabble.Core.pdb
-c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\Driver\obj\x86\Debug\Scrabble.Driver.exe
-c:\users\will\documents\visual studio 2010\Projects\FSharpScrabble\Driver\obj\x86\Debug\Scrabble.Driver.pdb
