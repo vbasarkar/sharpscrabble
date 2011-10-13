@@ -1,5 +1,3 @@
-#Screenshots of SharpScrabble in action.
-
 = Screenshots =
 ==Computer vs. Computer==
 http://sharpscrabble.googlecode.com/svn/trunk/docs/Images/computer%20vs%20computer.png
