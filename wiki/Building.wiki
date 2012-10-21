@@ -1,5 +1,0 @@
-= Building and Running SharpScrabble =
-
-SharpScrabble was developed using [http://en.wikipedia.org/wiki/Visual_studio Visual Studio 2010]. To run a game, pull the source, open the solution file FSharpScrabble.sln in Visual Studio. You can optionally tweak the number of opponents and the type of opponent (human or computer) in Setup.fs (Scrabble.Core.Setup), and run the project by pressing F5.
-
-Currently, no release build for SharpScrabble is available. Prior to making a release build, we will need to build a simple GUI to select your opponent(s), and which utility function a computer player should use. SharpScrabble targets the .NET Framework 4.0, so any machine intending to run a release build will need to install the [http://msdn.microsoft.com/en-us/netframework/aa569263 .NET Framework].
